@@ -29,4 +29,9 @@
         android:name="com.example.lab_week_04.MainActivity"
         android:label="activity_main"
         tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/cafeFragment"
+        android:name="com.example.lab_week_04.CafeFragment"
+        android:label="fragment_cafe"
+        tools:layout="@layout/fragment_cafe" />
 </navigation>
